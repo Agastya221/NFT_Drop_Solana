@@ -1,0 +1,28 @@
+{
+    "program": {
+        "uuid": "8tyXK1",
+        "config": "8tyXK1mdAZBH6nK8VZkMziW9bpA8EczV6iRgjrxqfBXy"
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/uioAHsa2II1AaS1MdW1Pvjs48NVo8l0Xjuje0dp9bSM",
+            "name": "Voilet",
+            "onChain": true
+        },
+        "1": {
+            "link": "https://arweave.net/3mGN-lGfuO4zf-tPH4Rl9T9LIk1o305tiCDtwv_Ox74",
+            "name": "Zoro",
+            "onChain": true
+        },
+        "2": {
+            "link": "https://arweave.net/LgGC7Ambc9Ux4ztgK9Sb5nGeJWh8OYOMkCcCxyTQD18",
+            "name": "Asta",
+            "onChain": true
+        }
+    },
+    "env": "devnet",
+    "cacheName": "temp",
+    "authority": "7FHRAgAANFndpbye8JsVnvf1zX2xHs223tHLvfGwBZfF",
+    "candyMachineAddress": "C9MVYJLSXbBonGY6kNexrf3kgsU589FCYiVXHFcwiNU4",
+    "startDate": 1640736720
+}
